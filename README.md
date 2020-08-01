@@ -6,5 +6,5 @@ Created a tool that estimates data analyst(MAE- $110k) to help data analyst to n
 Scraped over 1000 job description from glassdoor using python and selenium.  
 Engineered features from the text of each job description to qualify the value companies put on python, excel and sql.
 Executed pandas encoding concepts to handle numeric and categorical variables.
-[](https://github.com/Ramsyz/Ram_Portfolio/blob/master/images/JobTitle.png)
-[](https://github.com/Ramsyz/Ram_Portfolio/blob/master/images/USA_City.png)
+![](https://github.com/Ramsyz/Ram_Portfolio/blob/master/images/JobTitle.png)
+![](https://github.com/Ramsyz/Ram_Portfolio/blob/master/images/USA_City.png)
