@@ -24,7 +24,7 @@ Data Analysis portfolio
 # [Logistics Supervisor]
 - Invoice Analysis and document daily plan output for supply to demand.
 - Monitor orders, follow up, resolve customer inquiries, and make decisions.
-- Maintain inventory management spreadsheets for customer orders and analyze workflow in teams (MS Excel).
+- Maintain inventory management spreadsheets for customer orders and analyze workflow in teams.
 - Design dashboards using pivot tables and charts by grouping fields, slicers for interactive KPIs.
 
 
