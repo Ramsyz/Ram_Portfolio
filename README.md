@@ -18,7 +18,7 @@ Data Analysis portfolio
 
 # [Sql Data Analysis](https://github.com/Ramsyz/sqlite.git)
 - Performed updates to the SQL system as assigned by management.
-- Optimized SQL relational database design concepts (DDL,DML.DQL,DCL).
+- Optimized SQL queries and triggers from mysql and sqlite.
 - Automate data loading file transfer using python scripting into dataframe further to analyze data.
 
 
