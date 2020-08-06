@@ -14,7 +14,7 @@ Data Analysis portfolio
 - Engineered features from the text of each job description to qualify the value companies put on python, excel and sql.
 - Executed pandas encoding concepts to handle numeric and categorical variables.
 ![alt text](/images/JobTitle.png)
-![](/images/Salary.png)
+![alt text](/images/Salary.png)
 
 # [Sql Data Analysis](https://github.com/Ramsyz/sqlite.git)
 - Performed updates to the SQL system as assigned by management.
