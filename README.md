@@ -1,4 +1,3 @@
-
 # [House SalePrice Prediction](https://github.com/Ramsyz/House-SalePrice.git)
 - Extract, load, and transform data into dataframe to analyze the dataset.
 - Developed scripts to manipulate and clean the data.
