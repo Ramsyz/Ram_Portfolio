@@ -3,7 +3,8 @@
 - Developed scripts to manipulate and clean the data.
 - Implemented exploratory dat analysis using python and plot insights.
 - Executed encoding techniques and descriptive statics to handle categorical data.
-- Accomplished XGBoost classifier to measure accuracy score to help in strategic planning.![](/images/pred.png)
+- Accomplished XGBoost classifier to measure accuracy score to help in strategic planning.
+![](/images/pred.png)
  
 # [Data Analyst Salary Estimator](https://github.com/Ramsyz/Data-Analyst-Jobs.git)
 - Created a tool that estimates data analyst(MAE- $110k) to help data analyst to negotiate their income when they get a job.
