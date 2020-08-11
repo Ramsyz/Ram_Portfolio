@@ -1,3 +1,9 @@
+
+# [Sql Data Analysis](https://github.com/Ramsyz/sqlite.git)
+- Performed updates to the SQL system as assigned by management.
+- Optimized SQL queries and triggers from mysql and sqlite.
+- Automate data loading file transfer using python scripting into dataframe further to analyze data.
+
 # [House SalePrice Prediction](https://github.com/Ramsyz/House-SalePrice.git)
 - Extract, load, and transform data into dataframe to analyze the dataset.
 - Developed scripts to manipulate and clean the data.
@@ -14,16 +20,9 @@
 ![](/images/JobTitle.png)
 ![](/images/Salary.png)
 
-# [Sql Data Analysis](https://github.com/Ramsyz/sqlite.git)
-- Performed updates to the SQL system as assigned by management.
-- Optimized SQL queries and triggers from mysql and sqlite.
-- Automate data loading file transfer using python scripting into dataframe further to analyze data.
-
-# [Logistics Supervisor]()
-- Invoice Analysis and document daily plan output for supply to demand.
-- Monitor orders, follow up, resolve customer inquiries, and make decisions.
-- Maintain inventory management spreadsheets for customer orders and analyze workflow in teams.
-- Design dashboards using pivot tables and charts by grouping fields, slicers for interactive KPIs.
+# [Floor Management]()
+- Maintain inventory for customer and analyze workflow in teams.
+- Ensure a positive customer experience, and made process changes to maintain customer satisfaction.
 
 
 
