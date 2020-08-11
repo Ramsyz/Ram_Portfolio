@@ -19,7 +19,7 @@
 - Automate data loading file transfer using python scripting into dataframe further to analyze data.
 
 
-# [Floor Management]()
+# [Logistic Supervisor]()
 - Invoice Analysis and document daily plan output for supply to demand.
 - Monitor orders, follow up, resolve customer inquiries, and make decisions.
 - Maintain inventory management spreadsheets for customer orders and analyze workflow in teams.
